@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1436_MovieDerectorShom", "1436_MovieDerectorShom\1436_MovieDerectorShom.csproj", "{1636A6AA-8C3E-4F7B-BD61-E1077754CB5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1636A6AA-8C3E-4F7B-BD61-E1077754CB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1636A6AA-8C3E-4F7B-BD61-E1077754CB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1636A6AA-8C3E-4F7B-BD61-E1077754CB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1636A6AA-8C3E-4F7B-BD61-E1077754CB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B79FDC-63E8-4790-9E26-E5B83D95E40D}
+	EndGlobalSection
+EndGlobal
